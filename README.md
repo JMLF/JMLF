@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JMLF
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Bitcoin
+- 💞️ I’m looking to collaborate on Defi project or Bitcoin
 - 📫 How to reach me https://www.linkedin.com/in/mignard-marius 
 
 <!---
