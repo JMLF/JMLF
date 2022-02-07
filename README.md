@@ -1,7 +1,7 @@
-### Hi there, I'm Marius - Aka [JMLF]
+### Hi there, I'm Marius - Aka @JMLF
 
 ## I'm a student in computer science  
-- 👋 I’m @JMLF
+F
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Defi project or Bitcoin
