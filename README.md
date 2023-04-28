@@ -1,4 +1,4 @@
-### Hi there, I'm Marius - Aka @JMLF
+### Hi there, I'm Marius
 
 ## I'm a student in computer science  
 
@@ -16,6 +16,7 @@
 * GITHUB
 * LINUX
 * OOP 
+* FLUTTER
 
 <br />
 
