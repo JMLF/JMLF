@@ -72,9 +72,6 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKKWMMMMMMMMMMMMMMMMMMMMMN0XMWKXMMMWWNNWWWMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXNMMMMMMMMMMMMMMMMMMMMMMNNMMMWWMMMMMMMMWWWWMMMMMMMMMNNMMMMMMMMMMMMMMMM
 ```
 
-# 💫 About Me:
-Master's student mastering in resolving damn bugs. Professional experience <br>in Flutter and Firebase, as well as a web stack. <br>On the personal side, I'm diving into e/acc. 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mignard-marius) 
 
